@@ -1,9 +1,9 @@
 /* Global Styles */
 body {
    
-font-family: 'Poppins', sans-serif;
-    background-color: #FFF6FA;
-    color: #444;
+font-family: 'Arial', sans-serif;
+    background-color: #f9f9f9;
+    color: #333;
     margin: 0;
     padding: 0;
     transition: background-color 0.3s, color 0.3s;  /* ADD THIS LINE */
@@ -49,9 +49,6 @@ main {
 max-width: 800px;
     margin: 30px auto;
     padding: 20px;
-    background: white;
-    border-radius: 15px;
-    box-shadow: 0 5px 15px rgba(255, 182, 193, 0.4);
 
 }
 
